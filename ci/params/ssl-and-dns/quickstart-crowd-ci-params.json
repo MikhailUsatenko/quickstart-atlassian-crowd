@@ -62,5 +62,9 @@
     {
         "ParameterKey": "QSS3KeyPrefix",
         "ParameterValue": "quickstart-atlassian-crowd/"
+    },
+    {
+        "ParameterKey": "BastionHostRequired",
+        "ParameterValue": "false"
     }
 ]
